@@ -1,0 +1,15 @@
+{
+  "name": "finalchai",
+  "version": "1.0.0",
+  "description": "final backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascipt",
+    "node"
+  ],
+  "author": "Ankit Singh Chandel",
+  "license": "ISC"
+}
